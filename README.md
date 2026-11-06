@@ -34,5 +34,5 @@ Voice assistants usually need an app, an account, and cannot control your own la
 See `TEST-SCENARIOS.md`.
 
 ## Team contributions
-- **Tanveer:** (write here)
-- **Partner name:** (write here)
+- **Tanveer ahmed ** 
+- **shaik mustayeen** 
